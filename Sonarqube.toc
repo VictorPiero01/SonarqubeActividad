@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducción}{2}{}%
+\contentsline {chapter}{\numberline {2}Fundamentos teóricos}{3}{}%
+\contentsline {section}{\numberline {2.1}Teoría clásica}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}Definiciones}{3}{}%
+\contentsline {chapter}{\numberline {3}Desarrollo}{5}{}%
+\contentsline {chapter}{\numberline {4}Conclusiones}{11}{}%
+\contentsline {chapter}{\numberline {5}Bibliografia}{12}{}%
